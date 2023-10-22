@@ -22,27 +22,30 @@
 
 <ul id="playlist">
 
-<li class="current-song"><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/ILivedInHeaven.mp3">I Lived in Heaven</a></li>
+<li class="current-song"><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/1-JesusOnceWasALittleChild.mp3">Jesus Once Was a Little Child</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillFollowGodsPlanForMe.mp3">I Will Follow God's Plan For Me</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/2-TellMeTheStoriesOfJesus.mp3">Tell Me the Stories of Jesus</a></li>
     
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/HeSentHisSon.mp3
-">He Sent His Son</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/3-KeepTheCommandments.mp3
+">Keep the Commandments</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/FollowTheProphet-clipped.mp3">Follow the Prophet - verses 1 (Adam), 3 (Noah), 5 (Moses) and 9 (today)</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/4-IWillWalkWithJesus.mp3">I Will Walk With Jesus</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillBeValiant.mp3">I Will Be Valiant</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/5-IFeelMySaviorsLove.mp3">I Feel My Saviors Love</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/ImTryingToBeLikeJesus.mp3
-">I'm Trying To Be Like Jesus</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/6-TeachMeToWalkInTheLight.mp3
+">Teach Me to Walk in the Light</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/SearchPonderAndPray.mp3">Search, Ponder and Pray</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/7-Gethsemane.mp3">Gethsemane</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/ILoveToSeeTheTemple.mp3">I Love To See the Temple</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/8-WhenHeComesAgain.mp3">When He Comes Again</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/MyRedeemerLives.mp3">My Redeemer Lives</a></li>
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/9-HeSentHisSon.mp3">He Sent His Son</a></li>
 
-<li><a href="https://github.com/drhyrum/2022-primary-program/raw/main/list/IWillWalkWithJesus.mp3">I Will Walk With Jesus</a></li>  
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/10-ImTryingToBeLikeJesus.mp3">I'm Trying To Be Like Jesus</a></li>  
+</ul>
+
+<li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/WhenJesusChristWasBaptized-CTR7-ONLY.mp3">(CTR 7 Only) When Jesus Christ Was Baptized</a></li>  
 </ul>
     
 <script src="https://code.jquery.com/jquery-2.2.0.js"></script>

@@ -43,7 +43,6 @@
 <li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/9-HeSentHisSon.mp3">He Sent His Son</a></li>
 
 <li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/10-ImTryingToBeLikeJesus.mp3">I'm Trying To Be Like Jesus</a></li>  
-</ul>
 
 <li><a href="https://github.com/drhyrum/2023-primary-program/raw/main/list/WhenJesusChristWasBaptized-CTR7-ONLY.mp3">(CTR 7 Only) When Jesus Christ Was Baptized</a></li>  
 </ul>
